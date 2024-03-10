@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JackUoE
+- 👋 Hi, I’m @Jack-Gregory-Bioinformatics
 - 👀 I’m interested in fun bioinformatics and genetc engineering projects!
 - 🌱 I’m currently learning how to apply and develop this skillset in regards to infectious fungal pathogens.
 
