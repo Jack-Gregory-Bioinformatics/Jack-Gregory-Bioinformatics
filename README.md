@@ -1,6 +1,6 @@
 -  Hi, I’m @Jack-Gregory-Bioinformatics
 -  I’m interested in fungal-bacterial bioinformatics and genetc engineering projects!
--  Currently learning how to apply and develop this skillset in regards to infectious fungal pathogens as part of my PhD program at the Medical Research Councils Centre for Medical Mycology
+-  Currently learning how to apply and develop this skillset in regards to infectious fungal pathogens as part of my PhD program at the Medical Research Council's Centre for Medical Mycology
 -  Further interests include genome plasticity, gene transfer and reorganisation between and within organisms, and extremophile biology
 
 <!---
